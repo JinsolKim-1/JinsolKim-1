@@ -16,7 +16,7 @@ textbooks and activities/lessons provided by my instructors that I am actively p
 <div align="center">
     <a href=""https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,js"/><br>
-        <img src="https://skillicons.dev/icons?i=figma,godot,html,css,linux,git,github"/>
+        <img src="https://skillicons.dev/icons?i=figma,blender,godot,html,css,git,linux"/>
     </a>
 </div>
 
