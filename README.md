@@ -20,14 +20,6 @@ textbooks and activities/lessons provided by my instructors that I am actively p
     </a>
 </div>
 
-<br/>
-
-<h2 align="center">🦖 Github-Statistics 🦖</h2>
-<br>
-<div align=center>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=JinsolKim-1&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
-    <img width=390 src="https://streak-stats.demolab.com?user=JinsolKim-1&theme=tokyonight&border_radius=10"/>
-    <br/>
     
 
 
